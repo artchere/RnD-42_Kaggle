@@ -1,4 +1,4 @@
-# RnD-42
+## RnD-42
 This is an educational competition for the members of the RnD-42 team and all other participants are welcome also.
 
 We think it is quite easy for experienced teams, so please participate personally.
@@ -9,3 +9,4 @@ Train any binary classification model you like on the data from the training dat
 
 #### Результат на public lb - 0.90755.
 #### Использовал небольшой препроцессинг, CatBoost и GridSearch.
+https://www.kaggle.com/c/rnd-42-welcome
